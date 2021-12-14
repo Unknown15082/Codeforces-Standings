@@ -1,6 +1,5 @@
-========== Codeforces Standings for Contest ID: <contest-id> ==========
+                      Codeforces Standings for Contest ID: <contest-id>                          
 
-                Status: <Updated / Updating>
 
 +========+=================+=========+===========+=======+=======+=======+=======+=======+=======+
 +        +                 +         +           +       +       +       +       +       +       +

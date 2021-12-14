@@ -7,9 +7,8 @@
     + [ ] Parameters process
     + [ ] Class construction
 - [ ] Create Textfile version
-    + [ ] Standings
-    + [ ] Points
-    + [ ] Status
+    + [ ] Standings (ICPC)
+    + [ ] Standings (CF)
 - [ ] Create GUI version
     + [ ] Create Tkinter overlay
     + [ ] Fixed attributes/geometry
