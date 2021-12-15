@@ -1,12 +1,14 @@
 - [ ] Setup
     + [x] Git
-    + [ ] Design layout
+    + [x] Design layout
     + [ ] Outline structure
-- [ ] Create API interactor
-    + [ ] Hash process
-    + [ ] Parameters process
-    + [ ] Class construction
+- [x] Create API interactor
+    + [x] Hash process
+    + [x] Parameters process
+    + [x] Class construction
 - [ ] Create Textfile version
+    + [ ] Get value from command line / .txt file
+    + [ ] Get standings values
     + [ ] Standings (ICPC)
     + [ ] Standings (CF)
 - [ ] Create GUI version
@@ -15,6 +17,8 @@
     + [ ] Add elements
     + [ ] Restructure
 - [ ] Refactor
+    + [ ] Docstrings
+    + [ ] Comments
 - [ ] Package
     + [ ] Fix errors
     + [ ] Remove redundant code
